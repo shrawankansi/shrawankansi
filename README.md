@@ -10,7 +10,7 @@
 
 # 👋 Hello, I'm [Mr.Shrawan Kansi](https://www.ohidur.com)! 🍓 🍫
 
- <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&width=300&vCenter=true&lines=Hello+World!;My+name+is+Shrawan+Kansi;I+code+and+drink+coffee;I+love+to+play+videogames" />
+ <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&width=300&vCenter=true&lines=Hello+World!;I+am+a+Web+Developer;I+code+and+drink+coffee;I+love+to+play+videogames" />
  
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
 
