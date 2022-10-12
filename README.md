@@ -16,7 +16,7 @@
   <h6 align="center"> ~ Linus Torvalds</h6>
 
 
-[![Ohidur Rahman Bappy - Ask Me Anything](https://img.shields.io/static/v1?label=Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrawankansi/discussions/new?category=ask-me-anything)
+[![Shrawan kansi - Ask Me Anything](https://img.shields.io/static/v1?label=Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrawankansi/shrawankansi/discussions)
 	
 	
  </div>
