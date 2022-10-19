@@ -84,21 +84,12 @@
 </p>
  
  ---
- 
-<h3 align="right">I ❤️ Memes :wink:</h3>
-<img align="right" alt="Random Memes" title="programming memes by shrawankansi" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
- 
-<h3>📕 Latest Blog Posts</h3>
-
-
-
-
- <h3>🐦 Github Statistics </h3> 
+ <div align="center">
+<h3 align="center">I ❤️ Memes :wink:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shrawankansi&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</p>
-<br/>
-
+<img align="right" alt="Random Memes" title="programming memes by shrawankansi" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+ </p>
+	</div>
 
 
 
