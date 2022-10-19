@@ -84,12 +84,12 @@
 </p>
  
  ---
- <div align="center">
+ 
 <h3 align="center">I ❤️ Memes :wink:</h3>
 <p align="center">
-<img align="right" alt="Random Memes" title="programming memes by shrawankansi" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+<img align="center" alt="Random Memes" title="programming memes by shrawankansi" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
  </p>
-	</div>
+	
 
 
 
