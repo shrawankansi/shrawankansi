@@ -90,23 +90,7 @@
  
 <h3>📕 Latest Blog Posts</h3>
 
-<!-- BLOG-POST-LIST:START -->
-- [Using Nginx container as a load balancer](https://blog.ohidur.com/posts/nginx-load-balancer/)
-- [ESP32/ESP8266 MicroPython OTA Updates via Python Server](https://blog.ohidur.com/posts/esp8266-micropython-ota-updates/)
-- [Micropython Code optimization](https://blog.ohidur.com/posts/micropython-code-optimization/)
-- [Micropython on ESP8266](https://blog.ohidur.com/posts/esp8266-micropython/)
-- [C Sharp code snippets](https://blog.ohidur.com/posts/c-sharp-sinppets/)
-<!-- BLOG-POST-LIST:END -->
 
-<h3>📺 Latest YouTube Videos</h3>
-
-<!-- YOUTUBE:START -->
-- [Dall.E demo . Digital art. Horse and cat football team.](https://www.youtube.com/watch?v=pDTODWPoeE4)
-- [Do all the best you can. #shorts](https://www.youtube.com/watch?v=lhzvNz7ZCLU)
-- [Linus Torvalds talks about Elon Musk &lpar;Tesla&rpar;](https://www.youtube.com/watch?v=KN70VZy693k)
-- [Deploy python flask app on Cpanel shared hosting](https://www.youtube.com/watch?v=260eDcsUheE)
-- [Next Level GitHub Profile README &lpar;2020&rpar; - Create An Amazing Profile ReadMe With #GitHub Actions](https://www.youtube.com/watch?v=ZnJjJAxaq5Q)
-<!-- YOUTUBE:END -->
 
 
  <h3>🐦 Github Statistics </h3> 
