@@ -8,7 +8,7 @@
 <div align='center'>
 
 
-# 👋 Hello, I'm [Mr.Shrawan Kansi]([https://shrawankansi.netlify.app])! 🍓 🍫
+# 👋 Hello, I'm [Mr.Shrawan Kansi](https://shrawankansi.netlify.app)! 🍓 🍫
 
  <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&width=300&vCenter=true&lines=Hello+World!;I+am+a+Web+Developer;I+code+and+drink+coffee;I+love+to+play+videogames" />
  
