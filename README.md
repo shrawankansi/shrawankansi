@@ -47,7 +47,7 @@
 - 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/)
 - 💬 Ask me about anything [here](https://github.com/shrawankansi/shrawankansi/issues)
 - 📫 How to reach me: shrawankansi@gmail.com <br>
-- 🥅 2022 Goals: Hmm..thinking.!
+- 🥅 2023 Goals: Hmm..thinking.!
 - 🧗 I try to: Go beyond and push the boundaries!
 - ⚡ Fun fact: I love working by myself.
 
